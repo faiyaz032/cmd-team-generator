@@ -1,0 +1,19 @@
+{
+   "name": "cmd-team-generator",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+   },
+   "author": "",
+   "license": "ISC",
+   "dependencies": {
+      "@types/jest": "^27.4.1",
+      "inquirer": "^8.2.0"
+   },
+   "devDependencies": {
+      "jest": "^27.5.1"
+   }
+}
